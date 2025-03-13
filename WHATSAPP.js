@@ -16,7 +16,7 @@
     const _0x2f2bfd = () => {
       console.clear();
       console.log(`[1;32m
-' < RULEX OWNER> ROYAL PUNJAB RULEX S9UR9BH TH9KUR 
+' < OWNER> TH3 L3G3ND B0Y S9UR9BH TH9KUR 
  ----------------------------------------------
     \
      \
